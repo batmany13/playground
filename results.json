@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "vendor_id": 1,
+      "client_id": 10,
+      "datetime": "2017-01-01 11:30"
+    },
+    {
+      "vendor_id": 2,
+      "client_id": 20,
+      "datetime": "2017-01-01 11:30"
+    },
+    {
+      "vendor_id": 3,
+      "client_id": 30,
+      "datetime": "2017-01-01 12:00"
+    },
+    {
+      "vendor_id": 1,
+      "client_id": 40,
+      "datetime": "2017-01-01 12:30"
+    }
+  ]
+}

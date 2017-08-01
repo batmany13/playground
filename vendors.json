@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "vendor_id": 1,
+      "drivers": 2
+    },
+    {
+      "vendor_id": 2,
+      "drivers": 3
+    },
+    {
+      "vendor_id": 3,
+      "drivers": 1
+    },
+    {
+      "vendor_id": 4,
+      "drivers": 2
+    }
+  ]
+}
